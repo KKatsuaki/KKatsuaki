@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @KKatsuaki
 - 👀 I’m interested in embedded system development
-- 🌱 I’m currently learning verilog and FPGA
+- 🌱 I’m currently learning verilog and SLAM with FPGA
 
 <!---
 KKatsuaki/KKatsuaki is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
